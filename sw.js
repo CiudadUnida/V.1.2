@@ -1,6 +1,6 @@
 ;
 //asignar un nombre y versión al cache
-const CACHE_NAME = 'v1_cache_programador_fitness',
+const CACHE_NAME = 'v1_cache_ciudad_unida',
   urlsToCache = [
     './',
     'https://fonts.googleapis.com/css?family=Raleway:400,700',
@@ -10,7 +10,19 @@ const CACHE_NAME = 'v1_cache_programador_fitness',
     './style.css',
     './script.js',
     './img/ProgramadorFitness.png',
-    './img/favicon.png'
+    './assets/css/Ancizar Sans.css',
+    './assets/css/Ancizar Serif.css',
+    './assets/css/Fixed-navbar-starting-with-transparency-1.css',
+    './assets/css/Fixed-navbar-starting-with-transparency.css',
+    './assets/css/Projects-Horizontal.css',
+    './assets/css/Navigation-Clean.css',
+    './assets/css/Footer-Clean.css',
+    './assets/css/Team-grid.css',
+    './assets/fonts/AncizarSans-Bold.woff',
+    './assets/fonts/AncizarSans-Bold.woff2',
+    './assets/fonts/AncizarSans-Regular.woff',
+    './assets/fonts/AncizarSans-Regular.woff2',
+    './assets/img/logo.png',
   ]
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos
